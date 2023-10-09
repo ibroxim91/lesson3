@@ -77,3 +77,8 @@ n3 = Decimal("0.3")
 price = Decimal('12.45677433456')
 print(price.quantize(Decimal("1.00") ,ROUND_HALF_UP ))
 
+
+
+
+# Last update 09.10.2023
+
